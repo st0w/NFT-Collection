@@ -99,4 +99,5 @@ contract CryptoDevs is ERC721Enumerable, Ownable {
 // First deployment, weird... dont use this... Deployed to 0x5FbDB2315678afecb367f032d93F642f64180aa3 on Rinkeby using Hardhat
 
 // Deployed to 0xC1B820aA856859459483BAc6f6bB8124248780e1 on Rinkeby using Hardhat
+// Latest Rinkeby deployment: 0xE6efb02906e4C13636235f2Ff83706859E85dc32
 
